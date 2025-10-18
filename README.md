@@ -35,6 +35,18 @@ I’m currently learning and practicing:
   <img src="https://img.shields.io/badge/Motto-Every%20small%20step%20counts-purple?style=for-the-badge" alt="motto" />
 </p>
 
+---
+
+### 📫 Connect With Me  
+
+<p align="center">
+  <a href="https://github.com/ghadhalomar-arch" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="YOUR_LINKEDIN_URL_HERE" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
 
 ✨ *“Every small step counts — keep learning, keep building!”*
 
