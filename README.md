@@ -32,7 +32,6 @@ I’m currently learning and practicing:
 <p>
   <img src="https://img.shields.io/badge/Status-Learning%20Everyday-blue?style=for-the-badge" alt="learning" />
   <img src="https://img.shields.io/badge/Role-Student-success?style=for-the-badge" alt="student" />
-  <img src="https://img.shields.io/badge/Open%20to-Collaboration-orange?style=for-the-badge" alt="collab" />
   <img src="https://img.shields.io/badge/Motto-Every%20small%20step%20counts-purple?style=for-the-badge" alt="motto" />
 </p>
 
