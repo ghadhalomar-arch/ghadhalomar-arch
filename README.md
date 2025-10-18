@@ -1,4 +1,3 @@
-
 # 👋 Hi, I'm Ghada Alomar  
 
 🎓 I'm a **Computer Science student** at *Imam Muhammad bin Saud University*.  
@@ -8,25 +7,35 @@
 ---
 
 ### 🧠 Learning & Growth  
-I’m currently learning more about:
-- Programming languages 🧩  
-- Software development & tools ⚙️  
-- Creative design 🎨  
+I’m currently learning and practicing:  
+- Programming languages  
+- Software development tools  
+- Problem solving and logical thinking  
 
 ---
 
 ### 💼 My Skills  
 
 **Languages:**  
-<img src="https://skillicons.dev/icons?i=java,html" />
+<p>
+  <img src="https://skillicons.dev/icons?i=java,html" alt="languages" />
+</p>
 
-**Tools:**  
-<img src="https://skillicons.dev/icons?i=vscode,netbeans" />
-
-**Design:**  
-<img src="https://skillicons.dev/icons?i=canva" />
+**Tools / IDEs:**  
+<p>
+  <img src="https://skillicons.dev/icons?i=vscode,intellij" alt="tools" />
+</p>
 
 ---
+
+### 🌟 About My Learning  
+<p>
+  <img src="https://img.shields.io/badge/Status-Learning%20Everyday-blue?style=for-the-badge" alt="learning" />
+  <img src="https://img.shields.io/badge/Role-Student-success?style=for-the-badge" alt="student" />
+  <img src="https://img.shields.io/badge/Open%20to-Collaboration-orange?style=for-the-badge" alt="collab" />
+  <img src="https://img.shields.io/badge/Motto-Every%20small%20step%20counts-purple?style=for-the-badge" alt="motto" />
+</p>
+
 
 ✨ *“Every small step counts — keep learning, keep building!”*
 
