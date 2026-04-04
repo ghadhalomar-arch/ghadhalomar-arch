@@ -27,21 +27,6 @@ I’m currently learning and practicing:
   <img src="https://skillicons.dev/icons?i=vscode,intellij,figma" alt="tools" />
 </p>
 
----
-
-### 🎨 Featured Project  
-
-## UI/UX Prototype Project – Figma  
-
-Designed and developed an interactive application prototype using Figma.  
-Focused on clean layout structure, user flow, and intuitive navigation.  
-
-🔹 Created wireframes  
-🔹 Designed high-fidelity screens  
-🔹 Built interactive prototype connections  
-🔹 Applied basic UX principles  
-
-
 
 ---
 
