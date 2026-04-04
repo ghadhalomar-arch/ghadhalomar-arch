@@ -1,8 +1,8 @@
-# 👋 Hi, I'm Ghada Alomar  
+#  Hi, I'm Ghada Alomar  
 
 🎓 I'm a **Computer Science student** at *Imam Muhammad bin Saud University*.  
 💻 I know **Java**, and **Figma**, and I’m always excited to learn more about technology.  
-🌱 I love exploring different areas in tech — taking small pieces from everything and growing every day!  
+ I love exploring different areas in tech — taking small pieces from everything and growing every day!  
 
 ---
 
