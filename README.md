@@ -67,8 +67,6 @@ Expected Graduation: 2028
   <a href="https://www.linkedin.com/in/ghada-alomar-%D8%BA%D8%A7%D8%AF%D9%87-%D8%A7%D9%84%D8%B9%D9%85%D8%B1-549201368/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="https://github.com/ghadhalomar-arch" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" />
   </a>
 </p>
 </p>
