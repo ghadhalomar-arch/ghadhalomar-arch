@@ -1,55 +1,67 @@
-#  Hi, I'm Ghada Alomar  
+# Hi, I'm Ghada Alomar
 
-🎓 I'm a **Computer Science student** at *Imam Muhammad bin Saud University*.  
-💻 I know **Java**, and **Figma**, and I’m always excited to learn more about technology.  
- I love exploring different areas in tech — taking small pieces from everything and growing every day!  
+Computer Science Student at Imam Muhammad bin Saud University.
 
----
-
-### 🧠 Learning & Growth  
-I’m currently learning and practicing:  
-- Programming languages  
-- Software development tools  
-- UI/UX design principles  
-- Problem solving and logical thinking  
+I am interested in Software Development, Human-Computer Interaction (HCI), and UI/UX Design. I enjoy creating user-centered digital solutions and continuously improving my technical, analytical, and problem-solving skills through academic and personal projects.
 
 ---
 
-### 💼 My Skills  
+## Skills & Technologies
 
-**Languages:**  
 <p>
-  <img src="https://skillicons.dev/icons?i=java,html" alt="languages" />
+  <img src="https://skillicons.dev/icons?i=java,html,figma,vscode,intellij,git,github" />
 </p>
 
-**Tools / IDEs:**  
-<p>
-  <img src="https://skillicons.dev/icons?i=vscode,intellij,figma" alt="tools" />
-</p>
+### Areas of Interest
 
-
----
-
-### 🌟 About My Learning  
-<p>
-  <img src="https://img.shields.io/badge/Status-Learning%20Everyday-blue?style=for-the-badge" alt="learning" />
-  <img src="https://img.shields.io/badge/Role-Student-success?style=for-the-badge" alt="student" />
-  <img src="https://img.shields.io/badge/Motto-Every%20small%20step%20counts-purple?style=for-the-badge" alt="motto" />
-</p>
+- Software Engineering
+- Human-Computer Interaction (HCI)
+- UI/UX Design
+- Web Development
+- Mobile Applications
+- Algorithms & Problem Solving
 
 ---
 
-### 📫 Connect With Me  
+## Projects
 
-<p align="center">
+### Academic Scheduling System
+A platform designed to help students manage schedules, explore course information, and support academic planning.
+
+### Robot for Special Needs
+A human-centered project focused on improving learning and interaction experiences for children with special needs.
+
+### Drug Interaction Checker
+A web-based application that helps users identify potential interactions between medications and understand their severity.
+
+---
+
+## Currently Learning
+
+- Software Engineering Principles
+- Design and Analysis of Algorithms
+- User Experience Design
+- Application Development
+- Human-Centered AI Concepts
+
+---
+
+## Tools I Use
+
+<p>
+  <img src="https://skillicons.dev/icons?i=vscode,intellij,figma,git,github" />
+</p>
+
+---
+
+## Connect With Me
+
+<p>
   <a href="https://github.com/ghadhalomar-arch" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://skillicons.dev/icons?i=github" />
   </a>
+  &nbsp;
   <a href="https://www.linkedin.com/in/ghada-alomar-549201368/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 </p>
-
----
-
-✨ *“Every small step counts — keep learning, keep building!”*
